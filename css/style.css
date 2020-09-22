@@ -1095,6 +1095,7 @@ ol {
   color: #646470;
   font-size: 14px;
   padding-top: 25px;
+  white-space: nowrap;
 }
 
 .copyright a {
